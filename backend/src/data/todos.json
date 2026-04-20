@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2c0d8f7d-7b52-4f2a-8fa4-7e632ef39091",
+    "name": "Personal Errands",
+    "isCompleted": false
+  },
+  {
+    "id": "cf8d5c4f-7bd9-4fb9-b9d2-f57c4478f464",
+    "name": "Work Sprint",
+    "isCompleted": false
+  },
+  {
+    "id": "0fc7803c-72cb-43b7-9ea5-3228f66ac969",
+    "name": "Learning Goals",
+    "isCompleted": false
+  },
+  {
+    "id": "a287b5dc-00ca-420e-bbf0-6ca1ec9be63e",
+    "name": "ERRANDS",
+    "isCompleted": true
+  },
+  {
+    "id": "f6ca9704-5092-4842-8f61-bda4109a3326",
+    "name": "Checking Code",
+    "isCompleted": false
+  }
+]

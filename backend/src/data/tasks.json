@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6304fe4b-6b36-424f-9fdb-c90d75f75f61",
+    "todoId": "2c0d8f7d-7b52-4f2a-8fa4-7e632ef39091",
+    "name": "Call electrician",
+    "description": "Schedule kitchen light repair",
+    "dueDate": "2026-04-24",
+    "priority": "MEDIUM",
+    "isCompleted": true
+  },
+  {
+    "id": "04f093e8-a737-4cae-a258-cc4f2aa51fca",
+    "todoId": "cf8d5c4f-7bd9-4fb9-b9d2-f57c4478f464",
+    "name": "Draft API contract",
+    "description": "Prepare endpoint docs for frontend integration",
+    "dueDate": "2026-04-21",
+    "priority": "HIGH",
+    "isCompleted": true
+  },
+  {
+    "id": "443d99cd-43ca-46e4-b1d7-177149b2277f",
+    "todoId": "cf8d5c4f-7bd9-4fb9-b9d2-f57c4478f464",
+    "name": "Fix auth middleware tests",
+    "description": "Resolve flaky token expiration assertions",
+    "dueDate": "2026-04-22",
+    "priority": "MEDIUM",
+    "isCompleted": false
+  },
+  {
+    "id": "ec95d938-2de9-487e-9dd4-0afcdff39e2d",
+    "todoId": "0fc7803c-72cb-43b7-9ea5-3228f66ac969",
+    "name": "Read Node performance chapter",
+    "description": "Finish chapter on event loop optimization",
+    "dueDate": "2026-04-25",
+    "priority": "LOW",
+    "isCompleted": false
+  },
+  {
+    "id": "cbbda450-8b56-4731-8e88-afdcd58a034b",
+    "todoId": "2c0d8f7d-7b52-4f2a-8fa4-7e632ef39091",
+    "name": "go for a run",
+    "description": "ok",
+    "dueDate": "2026-04-14",
+    "priority": "MEDIUM",
+    "isCompleted": false
+  },
+  {
+    "id": "603fc92c-eb8e-4992-a8b7-5576bc968626",
+    "todoId": "f6ca9704-5092-4842-8f61-bda4109a3326",
+    "name": "Code migration",
+    "description": "Code migration",
+    "dueDate": "2026-04-22",
+    "priority": "HIGH",
+    "isCompleted": false
+  },
+  {
+    "id": "953bbbe4-a0fc-4eff-abc8-6f177e9f2237",
+    "todoId": "a287b5dc-00ca-420e-bbf0-6ca1ec9be63e",
+    "name": "okay",
+    "description": "okay",
+    "dueDate": "2026-04-01",
+    "priority": "MEDIUM",
+    "isCompleted": true
+  },
+  {
+    "id": "685ad8aa-504c-4587-b7d9-87b4e5256f1b",
+    "todoId": "2c0d8f7d-7b52-4f2a-8fa4-7e632ef39091",
+    "name": "Buy groceries for family",
+    "description": "Pick up vegetables, milk, and eggs",
+    "dueDate": "2026-04-23",
+    "priority": "HIGH",
+    "isCompleted": false
+  }
+]
